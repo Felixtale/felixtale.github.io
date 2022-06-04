@@ -519,7 +519,6 @@ input, select, textarea {
 		.row.gtr-200 {
 			margin-top: 0;
 			margin-left: -5em;
-
 		}
 
 			.row.gtr-200 > * {
@@ -2349,7 +2348,7 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/bg_gdgls.jpg");
+		background-image: url("images/overlay.png"), url("../../images/MountRefl/MountReflLogo.png");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								100%;
